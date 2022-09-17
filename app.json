@@ -8,7 +8,7 @@
         "TECHNO MINDZ"
     ],
     "website": "https://t.me/Technomindzchat",
-    "repository": "https://github.com/TechnoMindz/FilterBot",
+    "repository":https://github.com/rizalv1/FilterBot",
     "success_url": "https://telegram.dog/TECHNOMINDZCHAT",
     "env": {
         "WEBHOOK": {
